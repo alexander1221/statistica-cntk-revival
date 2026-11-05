@@ -1,0 +1,11 @@
+{
+    "rows":  10000,
+    "columns":  12,
+    "errors":  91,
+    "accuracyPercent":  99.09,
+    "argmaxMismatches":  0,
+    "invalidValues":  0,
+    "maxProbabilitySumDeviation":  1.1829170976085379E-09,
+    "minimumProbability":  2.4449658E-12,
+    "maximumProbability":  0.999999917
+}

@@ -1,0 +1,13 @@
+build/
+deps/
+logs/
+preservation/
+*.zip
+*.nupkg
+*.dll
+*.exe
+*.msi
+*.csv
+*.ckp
+.env
+
